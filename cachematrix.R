@@ -1,6 +1,7 @@
 ## The function makeCacheMatrix makes the matrix x cacheable to be used in
 ## the function cacheSolve which computes the inverse of the matrix x
-
+## Author: Martin Einarsve
+## Data: 21.05.15
 
 makeCacheMatrix <- function(x = matrix()) {
 ## call i.e.: y <- makeCacheMatrix(x)
